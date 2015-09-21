@@ -12,6 +12,9 @@ PHP server side script for self-hosting Gyazo applications.
 4. Edit your Gyazo client source code and set domain to your upload domain and upload path to "/i.php?md=1"
 5. Done
 
+Optional:
+1. To have an image that tells the user that the image is now found, place an image called "unknown.png" on the image directory.
+
 #License
 Released under the MIT License
 
