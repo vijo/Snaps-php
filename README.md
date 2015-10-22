@@ -13,7 +13,7 @@ PHP server side script for self-hosting Gyazo applications.
 5. Done
 
 Optional:
-1. To have an image that tells the user that the image is now found, place an image called "unknown.png" on the image directory.
+1. To have an image that tells the user that the image is not found, place an image called "unknown.png" on the image directory.
 
 #License
 The MIT License (MIT)
